@@ -15,4 +15,9 @@ I'm a passionate Full-Stack Developer with a strong focus on the MERN Stack. I e
 ---
 [![](https://visitcount.itsvg.in/api?id=thatswhatshesaid27&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### 🏆 GitHub Trophies
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=thatswhatshesaid27&theme=algolia&no-frame=true&margin-w=10&title=Stars,Followers,Commit,Repositories,Issues,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
