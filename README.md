@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm a passionate Full-Stack Developer with a strong focus on the MERN Stack. I enjoy building scalable web applications with clean architecture and interactive UI experiences.
+ "Strive not to be a success, but rather to be of value."
+                                               – Albert Einstein
+
+                                               
+ "I'm on a journey to bring real value through powerful web experiences."
 
 
 ## 🌐 Socials:
