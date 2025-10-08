@@ -16,6 +16,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=thatswhatshesaid27&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thatswhatshesaid27&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<p align="left"> <img src="https://github-profile-trophy-orcin.vercel.app/?username=thatswhatshesaid27&theme=gruvbox&margin-w=5&column=9&no-frame=true" alt="thatswhatshesaid27" /> </p>
+&nbsp;<img align="left" src="https://github-readme-stats-seven-kappa-83.vercel.app/api?username=thatswhatshesaid27&show_icons=true&include_all_commits=true&hide_border=true&theme=gruvbox" alt="thatswhatshesaid27" />
+<img src="https://github-readme-stats-seven-kappa-83.vercel.app/api/top-langs?username=thatswhatshesaid27&show_icons=true&locale=en&layout=compact&count-private=true&langs_count=20&theme=gruvbox" alt="thatswhatshesaid27" />
+<p></p>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=thatswhatshesaid27&icon=0&color=0)](https://visitcount.itsvg.in)
 
