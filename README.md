@@ -26,5 +26,6 @@
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=thatswhatshesaid27&no-bg=true&no-frame=true&margin-w=10&title=Commit,Repositories,Issues,PullRequest,Experience)](https://github.com/ryo-ma/github-profile-trophy)
 
+![snake gif](https://github.com/thatswhatshesaid27/thatswhatshesaid27/blob/output/github-snake-dark.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
